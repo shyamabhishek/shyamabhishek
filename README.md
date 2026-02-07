@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currently working in Hexaware Technology<br>I am looking for a job change to collaborate as ASP.Net developer.<br>I have skills in ASP.Net Core, web Api, React.js, SQL
+I am currently working in Hexaware Technology<br>I am looking for a job change to collaborate as ASP.Net developer.<br>Backend: C#, .NET Core, ASP.NET MVC, ASP.NET Web API, RESTful APIs, OOP, SOLID
+Principles, Asp.Net, Web Development, MVC Architect, WPF, XAML, MVVM
+Frontend: HTML5, CSS3, JavaScript (ES6), React.js
+Database: SQL Server, LINQ, Stored Procedures, Query Optimization, Backend API in Database
+SQL
+Tools & Process: Git, Postman, Swagger, Jira, Agile, SDLC
 
 
 ## 🌐 Socials:
