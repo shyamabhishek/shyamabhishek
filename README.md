@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currently working in Hexaware Technology<br>I am looking for a job change to collaborate as ASP.Net developer.<br>Backend: C#, .NET Core, ASP.NET MVC, ASP.NET Web API, RESTful APIs, OOP, SOLID
+.NET Developer with 4 years of experience at Hexaware Technologies, specializing in C#, .NET
+Core, ASP.NET MVC, ASP.NET Web API, and SQL Server. Experienced in developing
+scalable N-tier enterprise applications, building high-performance RESTful APIs, and optimizing SQL
+queries. Hands-on experience integrating backend services with React.js-based user interfaces. Strong
+contributor in Agile delivery environments with a focus on clean code and maintainability.
+<br>I am currently working in Hexaware Technology<br>Backend: C#, .NET Core, ASP.NET MVC, ASP.NET Web API, RESTful APIs, OOP, SOLID
 Principles, Asp.Net, Web Development, MVC Architect, WPF, XAML, MVVM
 Frontend: HTML5, CSS3, JavaScript (ES6), React.js
 Database: SQL Server, LINQ, Stored Procedures, Query Optimization, Backend API in Database
