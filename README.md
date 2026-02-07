@@ -5,8 +5,8 @@ scalable N-tier enterprise applications, building high-performance RESTful APIs,
 queries. Hands-on experience integrating backend services with React.js-based user interfaces. Strong
 contributor in Agile delivery environments with a focus on clean code and maintainability.
 <br>Backend: C#, .NET Core, ASP.NET MVC, ASP.NET Web API, RESTful APIs, OOP, SOLID
-Principles, Asp.Net, Web Development, MVC Architect, WPF, XAML, MVVM
-Frontend: HTML5, CSS3, JavaScript (ES6), React.js
+Principles, Asp.Net, Web Development, MVC Architect, WPF, XAML, MVVM <br>
+Frontend: HTML5, CSS3, JavaScript (ES6), React.js<br>
 Database: SQL Server, LINQ, Stored Procedures, Query Optimization, Backend API in Database
 SQL
 Tools & Process: Git, Postman, Swagger, Jira, Agile, SDLC
